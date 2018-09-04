@@ -1,4 +1,4 @@
-var a , b 
+var number;
 function add(){
-  
+  number = a + b ; 
 }
