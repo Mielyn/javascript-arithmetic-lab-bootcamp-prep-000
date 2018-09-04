@@ -1,4 +1,4 @@
-var number = 5
+var a , b 
 function add(){
   
 }
