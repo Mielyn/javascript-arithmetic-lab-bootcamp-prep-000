@@ -23,3 +23,8 @@ function inc(a){
   number = a + 1;
   return number;
 }
+
+function dec(b) {
+  number = b - 1; 
+  return number; 
+}
